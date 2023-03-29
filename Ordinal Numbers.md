@@ -1,5 +1,4 @@
-Nominative|Ablative
-Vardinikas|įnagininkas
+(Nominative)<br />Vardinikas|(Ablative)<br />įnagininkas
 ---|---
 pirmas|primu
 antras|antru
