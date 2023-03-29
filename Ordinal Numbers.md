@@ -4,7 +4,7 @@ first|pirmas|primu
 second|antras|antru
 third|trečias|trečiu
 fourth|ketvirtas|ketvirtu
-fifth|penktas|ppenktu
+fifth|penktas|penktu
 sixth|šeštas|šeštu
 seventh|septintas|septintu
 eigtieth|aštuntas|aštuntu
