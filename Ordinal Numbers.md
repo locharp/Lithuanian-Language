@@ -14,7 +14,7 @@ eleventh|vienuoliktas|vienuoliktu
 twelfh|dvyliktas|dvyliktu
 thirteen|tryliktas|tryliktu
 fourteen|keturioliktas|keturioliktu
-fifteen|penkioliktas|p3nkioliktu
+fifteen|penkioliktas|penkioliktu
 sixteen|šešioliktas|šešioliktu
 seventeen|septynioliktas|septynioliktu
 eighteen|aštuonioliktas|aštuonioliktu
