@@ -43,8 +43,8 @@
 佰京|quintillion|kvintilijonas
 十垓|sextillion|sekstilijonas
 秭|septillion|septilijonas
-|octillion|oktilijonas
-|nonillion|nonilijonas
+ |octillion|oktilijonas
+ |nonillion|nonilijonas
 幾|how many|kiek|
 
 ### Kelintiniai Skaitvardžiai (序數, Ordinal Numerals)
