@@ -3,16 +3,17 @@
 ### Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
-壹、一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
-貳、二|two|du|dviem|dvijose
-參、三|three|trys|trimis|trijuose
-肆、四|fiur|keturi|keturiais|keturiuose
-伍、五|five|penki|penkiais|penkiuose
-陸、六|six|šeši|šešiais|šešiuose
-柒、七|seven|septyni|septyniais|septyniuose
-捌、八|eigth|aštuoni|aštuoniais|aštuoniuose
-玖、九|nine|devyni|devyiais|devyniuose
-拾、十|ten|dešimtis|dešimčia|dešimtyje
+零 〇|zero|nulis|nuliu|nulyje
+壹 一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
+貳 二|two|du|dviem|dvijose
+參 三|three|trys|trimis|trijuose
+肆 四|fiur|keturi|keturiais|keturiuose
+伍 五|five|penki|penkiais|penkiuose
+陸 六|six|šeši|šešiais|šešiuose
+柒 七|seven|septyni|septyniais|septyniuose
+捌 八|eigth|aštuoni|aštuoniais|aštuoniuose
+玖 九|nine|devyni|devyiais|devyniuose
+拾 十|ten|dešimtis|dešimčia|dešimtyje
 佰|hundred|šimtas  šimtai|šimtu  šimtais|šimte  šimtuose
 仟|thousand|tūkstantis  tūkstančiai|tūkstančiu  tūkstančiais|tūkstantyje  tūkstančiuose
 佰萬|million  millions|milijonas  milijonai|milijonu  milijonais|milijone  milijonuose
@@ -43,8 +44,8 @@
 佰京|quintillion|kvintilijonas
 十垓|sextillion|sekstilijonas
 秭|septillion|septilijonas
- |octillion|oktilijonas
- |nonillion|nonilijonas
+?|octillion|oktilijonas
+?|nonillion|nonilijonas
 幾|how many|kiek|
 
 ### Kelintiniai Skaitvardžiai (序數, Ordinal Numerals)
