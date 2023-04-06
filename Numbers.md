@@ -3,7 +3,7 @@
 ### Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
-零 〇|zero|nulis|nuliu|nulyje
+零|zero|nulis|nuliu|nulyje
 壹 一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
 貳 二|two|du|dviem|dvijose
 參 三|three|trys|trimis|trijuose
@@ -85,4 +85,8 @@ ninetieth|devyniasdešimtas
 hundredth|šimtas
 thousandth|tūkstantas
 
-*In Chinese, ordinal numerals are repreaented by adding 「第」 in front of the (cardinal) numerals. Eg: Hundredth is 第壹佰.*
+*In Chinese, ordinal numerals are repreaented by adding 「第」 in front of the (cardinal) numerals. Eg: Hundredth is 第壹佰.
+
+There is Chinese lower case numerals:
+〇一二三四五六七八九十百千
+and 廿、卅 for twenty and thirty.*
