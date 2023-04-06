@@ -3,19 +3,19 @@
 ### Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
-零|zero|nulis|nuliu|nulyje
-壹|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
+零 〇|zero|nulis|nuliu|nulyje
+壹 一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
 貳 二|two|du|dviem|dvijose
 參 三|three|trys|trimis|trijuose
-肆|four|keturi|keturiais|keturiuose
-伍|five|penki|penkiais|penkiuose
-陸|six|šeši|šešiais|šešiuose
-柒|seven|septyni|septyniais|septyniuose
-捌|eigth|aštuoni|aštuoniais|aštuoniuose
-玖|nine|devyni|devyiais|devyniuose
-拾|ten|dešimtis|dešimčia|dešimtyje
-佰|hundred|šimtas  šimtai|šimtu  šimtais|šimte  šimtuose
-仟|thousand|tūkstantis  tūkstančiai|tūkstančiu  tūkstančiais|tūkstantyje  tūkstančiuose
+肆 四|four|keturi|keturiais|keturiuose
+伍 五|five|penki|penkiais|penkiuose
+陸 六|six|šeši|šešiais|šešiuose
+柒 七|seven|septyni|septyniais|septyniuose
+捌 八|eigth|aštuoni|aštuoniais|aštuoniuose
+玖 九|nine|devyni|devyiais|devyniuose
+拾 十|ten|dešimtis|dešimčia|dešimtyje
+佰 百|hundred|šimtas  šimtai|šimtu  šimtais|šimte  šimtuose
+仟 千|thousand|tūkstantis  tūkstančiai|tūkstančiu  tūkstančiais|tūkstantyje  tūkstančiuose
 佰萬|million  millions|milijonas  milijonai|milijonu  milijonais|milijone  milijonuose
 
 中文|English|Lietuvių
@@ -29,9 +29,9 @@
 拾柒|seventeen|septyniolika
 拾捌|eighteen|aśtuoniolika
 拾玖|nineteen|devyniolika
-貳拾|twelve|dvidešimt
-參拾|thirty|trisdešimt
-肆拾|forty|keturiasdešimt
+貳拾 廿|twelve|dvidešimt
+參拾 卅|thirty|trisdešimt
+肆拾 卌|forty|keturiasdešimt
 伍拾|fifty|penkiasdešimt
 陸拾|sixty|šešiasdešimt
 柒拾|seventy|septyniasdešimt
@@ -84,9 +84,3 @@ eightieth|aštuoniasdešimtas
 ninetieth|devyniasdešimtas
 hundredth|šimtas
 thousandth|tūkstantas
-
-*In Chinese, ordinal numerals are repreaented by adding 「第」 in front of the (cardinal) numerals. Eg: Hundredth is 第壹佰.
-
-There are Chinese lower case numerals:
-〇一二三四五六七八九十百千
-and 廿、卅、卌 for twenty, thirty and forty.*
