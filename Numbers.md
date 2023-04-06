@@ -4,8 +4,8 @@
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
 零(〇)|zero|nulis|nuliu|nulyje
-壹 一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
-貳 二|two|du|dviem|dvijose
+壹,一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
+貳-二|two|du|dviem|dvijose
 參 三|three|trys|trimis|trijuose
 肆 四|fiur|keturi|keturiais|keturiuose
 伍 五|five|penki|penkiais|penkiuose
