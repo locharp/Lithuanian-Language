@@ -4,16 +4,16 @@
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
 零|zero|nulis|nuliu|nulyje
-壹 一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
+壹|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
 貳 二|two|du|dviem|dvijose
 參 三|three|trys|trimis|trijuose
-肆 四|fiur|keturi|keturiais|keturiuose
-伍 五|five|penki|penkiais|penkiuose
-陸 六|six|šeši|šešiais|šešiuose
-柒 七|seven|septyni|septyniais|septyniuose
-捌 八|eigth|aštuoni|aštuoniais|aštuoniuose
-玖 九|nine|devyni|devyiais|devyniuose
-拾 十|ten|dešimtis|dešimčia|dešimtyje
+肆|four|keturi|keturiais|keturiuose
+伍|five|penki|penkiais|penkiuose
+陸|six|šeši|šešiais|šešiuose
+柒|seven|septyni|septyniais|septyniuose
+捌|eigth|aštuoni|aštuoniais|aštuoniuose
+玖|nine|devyni|devyiais|devyniuose
+拾|ten|dešimtis|dešimčia|dešimtyje
 佰|hundred|šimtas  šimtai|šimtu  šimtais|šimte  šimtuose
 仟|thousand|tūkstantis  tūkstančiai|tūkstančiu  tūkstančiais|tūkstantyje  tūkstančiuose
 佰萬|million  millions|milijonas  milijonai|milijonu  milijonais|milijone  milijonuose
@@ -42,7 +42,7 @@
 兆|trillion|trilijonas  biliardas
 仟兆|quadrillion|kvadrilijonas
 佰京|quintillion|kvintilijonas
-十垓|sextillion|sekstilijonas
+拾垓|sextillion|sekstilijonas
 秭|septillion|septilijonas
 ?|octillion|oktilijonas
 ?|nonillion|nonilijonas
@@ -87,6 +87,6 @@ thousandth|tūkstantas
 
 *In Chinese, ordinal numerals are repreaented by adding 「第」 in front of the (cardinal) numerals. Eg: Hundredth is 第壹佰.
 
-There is Chinese lower case numerals:
+There are Chinese lower case numerals:
 〇一二三四五六七八九十百千
-and 廿、卅 for twenty and thirty.*
+and 廿、卅、卌 for twenty, thirty and forty.*
