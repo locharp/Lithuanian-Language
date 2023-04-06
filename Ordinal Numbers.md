@@ -1,5 +1,5 @@
-Kelintinis Skaitvardžiai (Ordinak numerals)
-English|(Nominative)<br />Vardinikas|(Ablative)<br />įnagininkas|(Locative)  Vietininkas
+### Kelintinis Skaitvardžiai (Ordinak numerals)
+English|(Nominative)  Vardininkas|(Ablative)  įnagininkas|(Locative)  Vietininkas
 ---|---|---|---
 first|pirmas|primu|primame
 second|antras|antru|antrame
@@ -13,6 +13,8 @@ ninth|devintas|devintu|devintame
 tenth|dešimtas|dešimtu|dešimtame
 which|kelintas|kelintu|kelintame
 
+English|Lietuvių
+---|---
 eleventh|vienuoliktas
 twelfh|dvyliktas
 thirteen|tryliktas
