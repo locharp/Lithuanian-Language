@@ -3,7 +3,7 @@
 ### Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
-零 〇|zero|nulis|nuliu|nulyje
+零(〇)|zero|nulis|nuliu|nulyje
 壹 一|one  ones|vienas  vieni|vienu  veinais|viename  vienuose
 貳 二|two|du|dviem|dvijose
 參 三|three|trys|trimis|trijuose
