@@ -22,8 +22,8 @@ speak/talk|kalbėsiu|kalbėsi|kalbės|kalbėsime|kalbėsite
 ## Liepiamoji Nuosaka (Imperative Mood)
 English|tu|jis/ji/jie/jos|mes|jūs
 ---|---|---|---|---
-(will)  buy|pirk|-|pirkime|pirkite
+(will)  buy|pirk|?|pirkime|pirkite
 drink|gerk|tegeria|gerjime|gerkite
 eat|valgyki|tevalgo|valgykime|valgykite
 like|mėk|temėgsta|mėkime|mėkite
-speak/talk|kalbėk|tekalba|kalbėkime|kalbėk/ite
+speak/talk|kalbėk|tekalba|kalbėkime|kalbėkite
