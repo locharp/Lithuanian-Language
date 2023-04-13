@@ -23,6 +23,6 @@ English|tu|jis/ji/jie/jos|mes|jūs
 ---|---|---|---|---
 (will)  buy|pirk|?|pirkime|pirkite
 drink|gerk|tegeria|gerjime|gerkite
-eat|valgyki|tevalgo|valgykime|valgykite
+eat|valgyk|tevalgo|valgykime|valgykite
 like|mėk|temėgsta|mėkime|mėkite
 speak/talk|kalbėk|tekalba|kalbėkime|kalbėkite
