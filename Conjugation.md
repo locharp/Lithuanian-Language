@@ -20,7 +20,7 @@ speak/talk|kalbėsiu|kalbėsi|kalbės|kalbėsime|kalbėsite
 
 <hr />
 ## Liepiamoji Nuosaka (Imperative Mood)
-English|aš|tu|jis/ji/jie/jos|mes|jūs
+English|tu|jis/ji/jie/jos|mes|jūs
 ---|---|---|---|---
 (will)  buy|pirk|-|pirkime|pirkite
 drink|gerk|tegeria|gerjime|gerkite

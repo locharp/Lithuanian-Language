@@ -1,4 +1,4 @@
-# Numbers
+# Skaičiai (Numbers)
 ## Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
