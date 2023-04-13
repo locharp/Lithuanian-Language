@@ -18,7 +18,6 @@ eat|valgysiu|valgysi|valgys|valgysime|valgysite
 like|mėgsiu|mėgsi|mėgs|mėgsime|mėgsite
 speak/talk|kalbėsiu|kalbėsi|kalbės|kalbėsime|kalbėsite
 
-<hr />
 ## Liepiamoji Nuosaka (Imperative Mood)
 English|tu|jis/ji/jie/jos|mes|jūs
 ---|---|---|---|---
