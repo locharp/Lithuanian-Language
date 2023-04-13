@@ -1,6 +1,5 @@
-*There are plural form and gender specific numerals in Lithuanian. They are not listed here.*
-
-### Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
+# Numbers
+## Kiekiniai Skaitvardžiai (基數, Cardinal Numerals)
 中文|English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---|---
 零、〇|zero|nulis|nuliu|nulyje
@@ -48,7 +47,7 @@
 ？|nonillion|nonilijonas
 幾|how many|kiek|
 
-### Kelintiniai Skaitvardžiai (序數, Ordinal Numerals)
+## Kelintiniai Skaitvardžiai (序數, Ordinal Numerals)
 English|(主格)  (Nominative)  Vardininkas|(離格)  (Ablative)  įnagininkas|(方位格)  (Locative)  Vietininkas
 ---|---|---|---
 first|pirmas|primu|primame
