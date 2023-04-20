@@ -5,7 +5,8 @@ English|(Nominative)  Vardininkas|(Genitive)  Kilmininkas|(Ablative)  įnaginink
 computer  computers|kompiuteris  kompiuteriai|kompiuterio  kompiuterių|kompiuteriu  kompiuteriais|kompiuteryje  kompiuteriuose
 juice  juices|sultys  sulčiai|sulčio  sulčių|sulčiu  sulčiais|sultyje  sulčiuose
 male  males|vyras  vyrai|vyro  vyrų|vyru  vyrais|vyre  vyruose
-
+paper  papers|popierius  popieriai|popieriaus  popierių|popieriumi  popieriais|popieriuje  popieriuose
+water  waters|vanduo  vandenys|vandens  vandenų|vandeniu  vandenimis|vandenyje  vandenyse
 
 ### Moteris (Female)
 English|(Nominative)  Vardininkas|(Genitive)  Kilmininkas|(Ablative)  įnagininkas|(Locative)  Vietininkas
