@@ -1,4 +1,4 @@
-# Veismažodis (Verb)
+# Asmenavimas (Conjugation)
 ## Tiesioginė Nuosaka (Direct Speech/Indicative/x)
 ### Esamasis Laikas (Present Tense)
 English|aš|tu|jis/ji/jie/jos|mes|jūs
