@@ -16,7 +16,7 @@ English|aš|tu|jis/ji/jie/jos|mes|jūs
 was/were|buvau|buvai|buvo|buvome|buvote
 bought|pirkau|pirkai|pirko|pirkome|pirkte
 ate|valgau|valgei|valgė|valgėme|valgėte
-like|mėgau|mėgai|mėgo|mėgome|mėgite
+liked|mėgau|mėgai|mėgo|mėgome|mėgite
 spoke/talked|kalbėjau|kalbėjai|kalbėjo|kalbėjome|kalbėjote
 
 ### Būsimasis Laikas (Future Tense)
