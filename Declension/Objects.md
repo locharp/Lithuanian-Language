@@ -14,4 +14,5 @@ English|(Nominative)  Vardininkas|(Genitive)  Kilmininkas|(Ablative)  įnaginink
 ---|---|---|---|---
 coffee  coffees|kava kavos|kavos  kavų|kava  kavomis|kavoje  kavose
 female  females|moteris  moterys|moters  moterų|moterimi  moterimis|moteryje moteryse
+station  stations|stotis  stotys|stoties  stočiu|stotimi  stotimis|stotyje  stotyse
 (bus) stop  stops|(autob) stotelė  stotelės|stotelės  stotelių|stotele stotelėmis|stotelėje  stotelėse

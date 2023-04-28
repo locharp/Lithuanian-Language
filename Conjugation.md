@@ -1,5 +1,5 @@
 # Veismažodis (Verb)
-## Tiesioginė Nuosaka (Direct Speech)
+## Tiesioginė Nuosaka (Direct Speech/Indicative/x)
 ### Esamasis Laikas (Present Tense)
 English|aš|tu|jis/ji/jie/jos|mes|jūs
 ---|---|---|---|---|---

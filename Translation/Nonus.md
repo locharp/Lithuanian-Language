@@ -1,19 +1,27 @@
+# Daiktavardiai (Nouns)
 English|Lietuvių
 ---|---
+appartment|butas
+bank|bankas
 black|juodas
 breakfast|pusrytis
 buckwheat|grikiai
 butter|sviestas
+canteen|valgykla
 carrot|morka
+castle|pilis
 cat|katė
 chair|kėdė
 cheese|sūris
 chocolate|šokoladas
 coat|kailis
 coffee|kava
+day|diena
 dinner|varkarienė, pietūs
 dog|šuo
 energy|energija
+evening|vakaras
+flat|butas
 flower|gėlė
 fritter|sklindžiai
 garlic|česnakais
@@ -22,10 +30,14 @@ jam|džemas
 juice|sultys
 kissel|kisielius
 kiwi|kivis
+lemonade|lemnadas
 lunch|pietūs
 man|vyras
 meat|mėsa
+milk|pieno
 money|pinigas
+morning|rytas
+net|lizdas
 pap|kisielius
 paper|popierius
 pork|kiauliena
@@ -33,16 +45,27 @@ potato|bulvė
 red|raudonas
 salad|salotas
 schnitzel|snicelis, pjausnys
+school|mokykla
 shelf|lentyna
+shop|pardutuvė
+sleep|miegas
 soup|sriuba
 spinach|špinatas
+station|stotis
+stop|stotelė
 strawberry|braškė, žemuogė
+sword|kardas
 table|stalas
 tea|arbata
+telephone|telefonas
 television|televizorius
-tower|pilis
+time|laikas
+today|šiandiena
+tower|bokštas/
 value|vertė
+war|karas
 water|vanduo
 wheat|kvietys
 white|baltas
 woman|moteris
+work|darbas
