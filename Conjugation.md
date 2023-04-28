@@ -1,5 +1,5 @@
 # Asmenavimas (Conjugation)
-## Tiesioginė Nuosaka (Direct Speech/Indicative/x)
+## Tiesioginė Nuosaka (Direct Speech/Indicative)
 ### Esamasis Laikas (Present Tense)
 English|aš|tu|jis/ji/jie/jos|mes|jūs
 ---|---|---|---|---|---
