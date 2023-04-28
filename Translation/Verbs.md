@@ -6,7 +6,7 @@ drink|geria
 eat|valgo
 go|eina
 is|yra
-live|gyven
+live|gyvena
 ride|važiuoja
 speak|kalba
 sleep|miega

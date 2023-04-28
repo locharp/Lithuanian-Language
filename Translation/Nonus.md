@@ -32,6 +32,7 @@ kissel|kisielius
 kiwi|kivis
 lemonade|lemnadas
 lunch|pietūs
+life|gyvenimas
 man|vyras
 meat|mėsa
 milk|pieno

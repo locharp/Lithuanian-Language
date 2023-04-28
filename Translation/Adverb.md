@@ -1,4 +1,4 @@
-# prieveiksmiai (Adverbs)
+# Prieveiksmiai (Adverbs)
 English|Lietuvių
 ---|---
 today|šiandien
