@@ -16,9 +16,11 @@ cheese|sūris
 chocolate|šokoladas
 coat|kailis
 coffee|kava
+courage|drąsa
 day|diena
 dinner|varkarienė, pietūs
 dog|šuo
+endurance|ištvermė
 energy|energija
 evening|vakaras
 flat|butas
@@ -39,6 +41,7 @@ milk|pieno
 money|pinigas
 morning|rytas
 net|lizdas
+nobility|kilnumas
 pap|kisielius
 paper|popierius
 pork|kiauliena
